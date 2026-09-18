@@ -1,0 +1,10 @@
+PLAY CHICAGO — ARCHIVO 1
+
+Este paquete es el primer bloque de la versión web 3D.
+Incluye ciudad 3D inspirada en Chicago, edificios, calles, lago, tren elevado,
+vehículos, peatones, lluvia, cámara en primera/tercera persona y controles táctiles.
+
+IMPORTANTE:
+- Es un prototipo original; no usa personajes, mapa, modelos, sonidos ni archivos de GTA.
+- Necesita internet para cargar Three.js desde CDN.
+- La versión completa grande se construye agregando archivos/bloques posteriores.
